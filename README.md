@@ -1,4 +1,4 @@
-# barebnb
+# Stake Hashay
 A simple node application to calculate gains from crypto staking rewards (delegated validation) based on a given delagator wallet address.
 
 This program leverages the [CoinGecko API](https://www.coingecko.com/en) as well as the [Binance API](https://docs.binance.org/api-reference/dex-api/staking.html)
@@ -13,7 +13,7 @@ This is useful for jurisdictions where staking rewards cost basis needs to be tr
 - USD
 
 ## Limitations
- - Binance API can only return a maximum of 100 records at a time
+ - Binance Staking API can only return a maximum of 100 records at a time
 
 ### Other Resources
  - [Staking BNB with Trust Wallet](https://community.trustwallet.com/t/bnb-staking-with-trust-wallet/113243)
