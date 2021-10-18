@@ -1,0 +1,17 @@
+{
+  "name": "staking",
+  "version": "1.0.0",
+  "description": "small app for btan",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "author": "Tank",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "got": "^11.8.2",
+    "nconf": "^0.11.3"
+  }
+}
